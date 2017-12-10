@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sources\Features\Render\Systems\CreateBulletViewSystem.cs">
+    <Files>
+      <File FileName="Assets\Sources\Features\Render\Systems\AdjustTankBodyAngleSystem.cs" Line="48" Column="5" />
+      <File FileName="Assets\Sources\Extensions\TransformExtensions.cs" Line="11" Column="130" />
+      <File FileName="Assets\Sources\Features\Input\Systems\MouseInputSystem.cs" Line="18" Column="13" />
+      <File FileName="Assets\Sources\Features\Input\Systems\MovementInputSystem.cs" Line="22" Column="6" />
+      <File FileName="Assets\Sources\Features\Render\RenderSystems.cs" Line="11" Column="45" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="22" Column="3" />
+      <File FileName="Assets\Sources\Components\LifeComponent.cs" Line="6" Column="19" />
+      <File FileName="Assets\Scripts\Views\MapView.cs" Line="18" Column="2" />
+      <File FileName="Assets\Scripts\Views\BulletView.cs" Line="6" Column="8" />
+      <File FileName="Assets\Sources\Components\BulletViewComponent.cs" Line="7" Column="2" />
+      <File FileName="Assets\Sources\Features\Movement\Systems\VelocitySystem.cs" Line="19" Column="4" />
+      <File FileName="Assets\Sources\Features\Render\Systems\CreateBulletViewSystem.cs" Line="34" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
